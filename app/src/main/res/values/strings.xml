@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Collage Maker</string>
+    <string name="photo_help">%1$d photos. Tap a photo to select it (then Replace / Remove). Drag to move, pinch to zoom, double-tap to reset. Long-press and drag onto another photo to swap.</string>
+</resources>

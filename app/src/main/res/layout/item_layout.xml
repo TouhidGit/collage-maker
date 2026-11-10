@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="82dp"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingTop="6dp">
+
+    <FrameLayout
+        android:id="@+id/thumbFrame"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/thumb_bg"
+        android:padding="6dp">
+
+        <com.collage.maker.LayoutThumbView
+            android:id="@+id/thumb"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textColor="@color/text2"
+        android:textSize="11sp" />
+</LinearLayout>

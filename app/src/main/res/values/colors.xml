@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#6A4CFF</color>
+    <color name="brand_light">#E9E4FF</color>
+    <color name="bg">#F5F3FB</color>
+    <color name="panel">#FFFFFF</color>
+    <color name="text">#1D1B26</color>
+    <color name="text2">#6B6880</color>
+    <color name="divider">#E2DEEE</color>
+</resources>
